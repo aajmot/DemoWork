@@ -2,7 +2,7 @@ import random
 import base64
 class SecurityUtility:
     """security model and class"""
-    ENCRYPT_KEY="@#$<<i m not gonna tell you my key though>!@>"
+    ENCRYPT_KEY="YOUR_KEY_HERE"
     
     def _init_(self):
         print("constructor of security class")
